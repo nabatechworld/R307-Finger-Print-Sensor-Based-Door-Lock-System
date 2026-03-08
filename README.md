@@ -57,6 +57,16 @@ GREEN LED → Arduino Pin 9
 RED LED → Arduino Pin 10
 
 ---
+# Tutorial
+
+Before using this project, make sure you know how to install the fingerprint sensor library and enroll fingerprints in the sensor.
+
+A complete step-by-step tutorial is available on my YouTube channel:
+
+https://www.youtube.com/watch?v=r6bljuMhwrI
+
+This tutorial explains how to install the **Adafruit Fingerprint Sensor Library**, connect the **R307 fingerprint sensor**, and **enroll fingerprints** so they can be used in this door lock system.
+
 
 # Access Control Mode
 
